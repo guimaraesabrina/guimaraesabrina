@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm driven by a deep passion for learning and shar
 
 - 🌎 Based in São Paulo, Brazil
 - 💻 Machine Learning Engineer
-- 🌱 I’m currently learning: AWS, PySpark, HELM and Terraform
+- 🌱 I’m currently learning: AWS, PySpark, HELM, Terraform and Data Engineering Fundamentals
 - 💼 Currently working for [NTT DATA](https://www.nttdata.com/global/en/)
 - 👥 Data Science team 
 - ✨ Currently working with: Generative AI, Big Data, and Classical AI
