@@ -15,4 +15,5 @@ Here's a quick guide to what each of my GitHub repositories represents:
 
 - 📚 for continuous learning and studies,
 - 👩‍🏫 for training materials from the courses I teach,
-- 💻 for my personal projects where I explore new technologies and creative solutions.
+- 💻 for my personal projects where I explore new technologies and creative solutions,
+- 🛠️ for save useful informations
